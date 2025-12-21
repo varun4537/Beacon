@@ -1,0 +1,5 @@
+{
+  "name": "Beacon: The Positive News Portal",
+  "description": "A news aggregator powered by Gemini that specifically finds and summarizes uplifting, inspiring, and positive stories from around the world using real-time search grounding.",
+  "requestFramePermissions": []
+}
